@@ -1,0 +1,8 @@
+{
+	"name": "claude-script-mode",
+	"version": "0.1.0",
+	"private": true,
+	"description": "Programmatic tool calling for Claude Code via MCP: a script tool that runs JS in a sandboxed subprocess and batches file/shell calls over JSON-RPC.",
+	"license": "MIT",
+	"engines": { "node": ">=22.0" }
+}

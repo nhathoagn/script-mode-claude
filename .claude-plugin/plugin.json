@@ -1,0 +1,12 @@
+{
+	"name": "claude-script-mode",
+	"description": "Programmatic tool calling: run a JS program in a node --permission sandbox that batches file/shell work and returns only distilled text() output",
+	"version": "0.1.0",
+	"author": { "name": "nhathoang" },
+	"mcpServers": {
+		"script-mode": {
+			"command": "node",
+			"args": ["${CLAUDE_PLUGIN_ROOT}/server.js"]
+		}
+	}
+}

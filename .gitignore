@@ -1,0 +1,3 @@
+node_modules/
+.claude/script-logs/
+*.code.js
