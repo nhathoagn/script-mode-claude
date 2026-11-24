@@ -1,0 +1,11 @@
+{
+	"name": "script-mode-claude",
+	"owner": { "name": "nhathoagn" },
+	"plugins": [
+		{
+			"name": "script-mode",
+			"description": "Programmatic tool calling: run a JS program in a node --permission sandbox that batches file/shell work and returns only distilled text() output",
+			"source": "./"
+		}
+	]
+}
